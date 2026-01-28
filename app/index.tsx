@@ -14,7 +14,7 @@ import {
   useColorScheme,
 } from "react-native";
 import { movies } from "../assets/data/movies";
-import { translations } from "./translations";
+import { translations } from "./translation";
 
 const screenWidth = Dimensions.get("window").width;
 
